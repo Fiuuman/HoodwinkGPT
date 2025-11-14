@@ -23,7 +23,7 @@
 </div>
 
 ###
-https://drive.google.com/drive/folders/1S5tVyCU8TEAonVb17fLB2ddObL1x7wMz?usp=drive_link
+
 
 <p align="left">Ссылка на сюжет/историю проекта - https://docs.google.com/document/d/15M1bWIN-D9KfpGP9ULEuxw_kc1yUeYsfs-5Lq60Srgo/edit?usp=sharing<br><br>Ссылка на скрам-доску - https://docs.google.com/spreadsheets/d/1QC7PFUKhMURu03HOjD8JzB0HAwItbBTH1ME49KoGaTw/edit?usp=sharing</p>
 
